@@ -1,1 +1,1 @@
-<H1>Just a repo to store assigments</H1>
+<H1 align="center">Just a repo to store assigments</H1>
